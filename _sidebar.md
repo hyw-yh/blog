@@ -9,4 +9,5 @@
   * [Typecho](http:/typecho.org)
   * [薄荷小屋](https://rowingbohe.com)
   
+* [Powered by Docsify](https://docsify.js.org/#/zh-cn/)
 * [浙ICP备18031649号](http://beian.miit.gov.cn)
