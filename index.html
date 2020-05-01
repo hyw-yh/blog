@@ -25,36 +25,12 @@
     // 加载 _sidebar.md
     loadSidebar: true,
 
-
-    search: 'auto', // 默认值
-
-    search : [
-      '/',            // => /README.md
-      '/guide',       // => /guide.md
-      '/get-started', // => /get-started.md
-      '/zh-cn/',      // => /zh-cn/README.md
-    ],
-
-    // 完整配置参数
+    // 搜索
     search: {
       maxAge: 3600, // 过期时间，单位毫秒，默认一天
       paths: [], // or 'auto'
-      placeholder: 'Type to search',
-
-      // 支持本地化
-      placeholder: {
-        '/zh-cn/': '点此搜索',
-        '/': 'Type to search'
-      },
-
-      noData: 'No Results!',
-
-      // 支持本地化
-      noData: {
-        '/zh-cn/': '找不到结果',
-        '/': 'No Results'
-      },
-
+      placeholder: '点此搜索',
+      noData: '莫得结果',
       // 搜索标题的最大层级, 1 - 6
       depth: 2,
     }
