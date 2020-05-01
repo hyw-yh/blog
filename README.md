@@ -1,4 +1,4 @@
-<center><img alt="Heyiwei" style="border-radius:50%; height:128px; height:8rem; width:128px; width:8rem;" src="/08C75D59-787F-4A0B-B38E-18EE2EA57537.jpeg"><br/><span style="font-family:Source Han Sans CAN,Microsoft YaHei,微软雅黑;font-size:30px;"><b>Yiwei-He</b></span></h2><br/>When grace is lost from life, come with a burst of song.</center></br><svg class="icon" aria-hidden="true"><use xlink:href="#icon-QQ"></use></svg><br/>
+<center><img alt="Heyiwei" style="border-radius:50%; height:128px; height:8rem; width:128px; width:8rem;" src="/08C75D59-787F-4A0B-B38E-18EE2EA57537.jpeg"><br/><span style="font-family:Source Han Sans CAN,Microsoft YaHei,微软雅黑;font-size:30px;"><b>Yiwei-He</b></span></h2><br/>When grace is lost from life, come with a burst of song.</br><svg class="icon" aria-hidden="true" font-size="2em"><use xlink:href="#icon-QQ"></use></svg></center><br/>
 
 ----
 
